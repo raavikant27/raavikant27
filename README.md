@@ -16,13 +16,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raavikant27" alt="raavikant27" /></a> </p>
 
-- 🔭 I’m currently working on [devdetective](https://devdetective-ravikant.netlify.app/)
+
 
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [WeatherApp](https://weatherapi-ravikant.netlify.app/)
-
-- 🤝 I’m looking for help with [Tictactoe](https://tictactoe-proj.netlify.app/)
 
 - 📫 How to reach me **sravikant302@gmail.com**
 
