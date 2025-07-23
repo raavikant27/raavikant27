@@ -23,6 +23,7 @@
   <a href="https://leetcode.com/u/sravikant_302/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/sravikant_302"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sravikant27"><img src="https://img.shields.io/badge/GFG-1f8f3e?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://takeuforward.org/plus/profile/Sravikant302"><img src="https://img.shields.io/badge/TakeUForward-0F9D58?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ravikant-singh-712395158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -31,7 +32,7 @@
 <h2 align="center">💼 Internships</h2>
 
 - 🧑‍🏫 **Teaching Assistant Intern at Coding Ninjas**  
-  📍 *Remote | Mar 2024 – june 2024*  
+  📍 *Remote | Mar 2024 – Jun 2024*  
   🔧 *Helped 1000+ students in DSA & Web Development BOTH DSA AND REACT*
 
 - 🧑‍💻 **Software Developer Intern at RailWorld India Pvt. Ltd.**  
