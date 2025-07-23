@@ -1,28 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ravikant singh</h1>
-<h3 align="center">A passionate front-end developer from india</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raavikant27&label=Profile%20views&color=0e75b6&style=flat" alt="raavikant27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raavikant27" alt="raavikant27" /></a> </p>
-
-- 🔭 I’m currently working on **learning management system**
-
-- 🌱 I’m currently learning **Reactjs**
-
-- 📫 How to reach me **sravikant302@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravikant-singh-712395158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikant-singh-712395158/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ram_ravi27/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sravikant27" height="30" width="40" /></a>
+<!-- Banner Text Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravikant+Singh;Java+Full+Stack+%7C+MERN+Developer;Always+Learning+%F0%9F%93%9A;Let%E2%80%99s+Build+Something+Amazing!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raavikant27&show_icons=true&locale=en&layout=compact" alt="raavikant27" /></p>
+<h2 align="center">🔹 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raavikant27&show_icons=true&locale=en" alt="raavikant27" /></p>
+- 🔭 Currently building a **Learning Management System**
+- 💻 Completed **MERN Stack Development**
+- ☕ Learning **Java Full Stack** (Spring Boot, MySQL, etc.)
+- 🧑‍💻 Completed **4 Internships** (Remote + Office)
+- 📱 **Phone:** `7052513167`
+- 📫 **Email:** [sravikant302@gmail.com](mailto:sravikant302@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raavikant27&" alt="raavikant27" /></p>
+---
+
+<h2 align="center">🌐 Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://github.com/raavikant27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sravikant_302/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/sravikant_302"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sravikant27"><img src="https://img.shields.io/badge/GFG-1f8f3e?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ravikant-singh-712395158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💼 Internships</h2>
+
+- 🧑‍🏫 **Teaching Assistant Intern at Coding Ninjas**  
+  📍 *Remote | Mar 2024 – june 2024*  
+  🔧 *Helped 1000+ students in DSA & Web Development BOTH DSA AND REACT*
+
+- 🧑‍💻 **Software Developer Intern at RailWorld India Pvt. Ltd.**  
+  📍 *Remote | Apr 2024 – Jun 2024*  
+  🔧 *Built 10+ web apps using React.js, improving UI/UX by 25%*
+
+- 📘 **Frontend Developer Intern at TextBook**  
+  📍 *Remote | 2024*  
+  🔧 *Worked on responsive UI components using React.js*
+
+- 🏢 **Node.js Backend Intern at Bharat Batuk Pvt. Ltd.**  
+  📍 *Noida (Onsite) | 2024*  
+  🔧 *Developed backend APIs and MongoDB integration using Node.js*
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,spring,bootstrap,c,cpp" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raavikant27&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raavikant27&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raavikant27&theme=radical&hide_border=false" />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raavikant27&theme=react-dark" />
+</p>
+
+---
+
+<h2 align="center">⚡ Quote to Remember</h2>
+
+> _"Consistency is better than intensity. Build daily!"_
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
