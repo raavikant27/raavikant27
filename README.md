@@ -1,11 +1,6 @@
-<!-- Banner Graphic with Devotional + Professional Tone -->
+<!-- Banner Text Animation -->
 <p align="center">
-  <img src="https://i.imgur.com/0pC4W6z.png" width="100%" alt="Radha Rani Blessings and Code Banner">
-</p>
-
-<!-- Banner Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravikant+Singh;Java+Full+Stack+%7C+MERN+Developer;Always+Learning+%F0%9F%93%9A;Code+with+Blessings+of+Radha+Rani!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=11F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravikant+Singh;Java+Full+Stack+%7C+MERN+Developer;Always+Learning+%F0%9F%93%9A;Let%E2%80%99s+Build+Something+Amazing!" />
 </p>
 
 ---
@@ -16,8 +11,7 @@
 - 💻 Completed **MERN Stack Development**
 - ☕ Learning **Java Full Stack** 
 - 🧑‍💻 Completed **4 Internships** (Remote + Office)
-- 🙏 Guided by the blessings of **Radha Rani**
-- 📱 **Phone:** `7052513167`
+- 📱 **Phone:** 7052513167
 - 📫 **Email:** [sravikant302@gmail.com](mailto:sravikant302@gmail.com)
 
 ---
@@ -37,20 +31,20 @@
 <h2 align="center">💼 Internships</h2>
 
 - 🧑‍🏫 **Teaching Assistant Intern at Coding Ninjas**  
-  📍 *Remote | Mar 2024 – Jun 2024*  
-  🔧 *Mentored 1000+ students in both DSA & React.js*
+  📍 *Remote | Mar 2024 – june 2024*  
+  🔧 *Helped 1000+ students in DSA & Web Development BOTH DSA AND REACT*
 
 - 🧑‍💻 **Software Developer Intern at RailWorld India Pvt. Ltd.**  
   📍 *Remote | Apr 2024 – Jun 2024*  
-  🔧 *Built 10+ web apps using React.js, enhanced UI/UX by 25%*
+  🔧 *Built 10+ web apps using React.js, improving UI/UX by 25%*
 
 - 📘 **Frontend Developer Intern at TextBook**  
   📍 *Remote | 2024*  
-  🔧 *Developed responsive UI components using React.js*
+  🔧 *Worked on responsive UI components using React.js*
 
 - 🏢 **Node.js Backend Intern at Bharat Batuk Pvt. Ltd.**  
   📍 *Noida (Onsite) | 2024*  
-  🔧 *Built backend APIs & integrated MongoDB using Node.js*
+  🔧 *Developed backend APIs and MongoDB integration using Node.js*
 
 ---
 
@@ -89,4 +83,4 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting! Blessed by Radha Rani ✨</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
