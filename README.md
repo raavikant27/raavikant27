@@ -9,7 +9,7 @@
 
 - 🔭 Currently building a **Learning Management System**
 - 💻 Completed **MERN Stack Development**
-- ☕ Learning **Java Full Stack** (Spring Boot, MySQL, etc.)
+- ☕ Learning **Java Full Stack** 
 - 🧑‍💻 Completed **4 Internships** (Remote + Office)
 - 📱 **Phone:** `7052513167`
 - 📫 **Email:** [sravikant302@gmail.com](mailto:sravikant302@gmail.com)
