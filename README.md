@@ -7,7 +7,7 @@
 
 <h2 align="center">🔹 About Me</h2>
 
-- 🔭 Currently building a **Learning Management System**
+
 - 💻 Completed **MERN Stack Development**
 - ☕ Learning **Java Full Stack** 
 - 🧑‍💻 Completed **4 Internships** (Remote + Office)
