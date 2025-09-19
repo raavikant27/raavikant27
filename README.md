@@ -7,10 +7,10 @@
 
 <h2 align="center">🔹 About Me</h2>
 
-
 - 💻 Completed **MERN Stack Development**
 - ☕ Learning **Java Full Stack** 
-- 🧑‍💻 Completed **4 Internships** (Remote + Office)
+- 🧑‍💻 Completed **5 Internships** (Remote + Office)
+- 🐍 Exploring **Python Backend (FastAPI & Flask)** step by step
 - 📱 **Phone:** 7052513167
 - 📫 **Email:** [sravikant302@gmail.com](mailto:sravikant302@gmail.com)
 
@@ -31,9 +31,13 @@
 
 <h2 align="center">💼 Internships</h2>
 
+- 🚀 **Backend Developer Intern at Tecnode8.ai**  
+  📍 *Remote | Sep 2025 – Present*  
+  🔧 *Started backend journey with **Python (FastAPI & Flask)** step by step, building scalable APIs*
+
 - 🧑‍🏫 **Teaching Assistant Intern at Coding Ninjas**  
   📍 *Remote | Mar 2024 – Jun 2024*  
-  🔧 *Helped 1000+ students in DSA & Web Development BOTH DSA AND REACT*
+  🔧 *Helped 1000+ students in DSA & Web Development (DSA + React)*
 
 - 🧑‍💻 **Software Developer Intern at RailWorld India Pvt. Ltd.**  
   📍 *Remote | Apr 2024 – Jun 2024*  
@@ -52,7 +56,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,spring,bootstrap,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,spring,bootstrap,c,cpp,python,flask,fastapi" />
 </p>
 
 ---
